@@ -9,14 +9,14 @@ public class App {
 		accademy.setCode("FSSA");
 
 		Student student1 = new Student();
-		student1.setName("Boobalan");
-		student1.setEmail("rboomibalan459@gmail.com");
+		student1.setName("Nandakumar");
+		student1.setEmail("nandakumar@gmail.com");
 		student1.setId(5678);
 		System.out.println("Instence: " + Student.count);
 
 		Student student2 = new Student();
-		student2.setName("Ragunath");
-		student2.setEmail("ragunath123@gmail.com");
+		student2.setName("Siva");
+		student2.setEmail("siva@gmail.com");
 		student2.setId(7891);
 		System.out.println("Instence: " + Student.count);
 
