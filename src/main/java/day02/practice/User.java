@@ -44,10 +44,10 @@ public class User {
 	public static void main(String[] args) {
 
 		UserDetails user = new UserDetails();
-		user.setName("Vijay Kumar");
+		user.setName("Nandakumar");
 		user.setId(23456);
-		user.setPassword("VijayKR@202");
-		user.setEmail("vijaykumarkr476@gmail.com");
+		user.setPassword("nanda@123");
+		user.setEmail("nanda@gmail.com");
 
 		System.out.println("Name: " + user.getName());
 		System.out.println("Email: " + user.getEmail());
